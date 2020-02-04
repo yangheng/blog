@@ -7,10 +7,10 @@
 ### 2.申请AWS账号
 1.  注册AWS账号[https://portal.aws.amazon.com/billing/signup#/start](https://portal.aws.amazon.com/billing/signup#/start)，按照步骤完成注册，信用卡绑定等.`值得注意的是：绑定之后会有扣1美元的押金`界面如下
 
-![注册](../resource/register.png)
-2.  选择免费方案。如下图
+![](../resource/register.png)
 
-![方案](../resource/plan.png)
+2.  选择免费方案。如下图
+![](../resource/plan.png)
 
 ### 3.新建一个EC2实例`【建议选择东京服务器，国内速度会更快】`
 1.  打开AWS管理控制台,找到EC2 服务
